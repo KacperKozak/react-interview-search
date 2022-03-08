@@ -1,0 +1,2174 @@
+[
+  {
+    "name": "Activity",
+    "tags": ["pulse", "health", "action", "motion"]
+  },
+  {
+    "name": "Airplay",
+    "tags": ["stream", "cast", "mirroring"]
+  },
+  {
+    "name": "AlarmCheck",
+    "tags": ["done"]
+  },
+  {
+    "name": "AlarmClock",
+    "tags": ["morning"]
+  },
+  {
+    "name": "AlarmClockOff",
+    "tags": ["morning", "turn-off"]
+  },
+  {
+    "name": "AlarmMinus",
+    "tags": ["remove"]
+  },
+  {
+    "name": "AlarmPlus",
+    "tags": ["add"]
+  },
+  {
+    "name": "Album",
+    "tags": ["photo", "book"]
+  },
+  {
+    "name": "AlertCircle",
+    "tags": ["warning", "alert", "danger"]
+  },
+  {
+    "name": "AlertOctagon",
+    "tags": ["warning", "alert", "danger"]
+  },
+  {
+    "name": "AlertTriangle",
+    "tags": ["warning", "alert", "danger"]
+  },
+  {
+    "name": "AlignCenter",
+    "tags": ["text alignment", "center"]
+  },
+  {
+    "name": "AlignJustify",
+    "tags": ["text alignment", "justified"]
+  },
+  {
+    "name": "AlignLeft",
+    "tags": ["text alignment", "left"]
+  },
+  {
+    "name": "AlignRight",
+    "tags": ["text alignment", "right"]
+  },
+  {
+    "name": "Anchor",
+    "tags": ["ship"]
+  },
+  {
+    "name": "Aperture",
+    "tags": ["camera", "photo"]
+  },
+  {
+    "name": "Archive",
+    "tags": ["index", "box"]
+  },
+  {
+    "name": "ArrowBigDown",
+    "tags": ["key"]
+  },
+  {
+    "name": "ArrowBigLeft",
+    "tags": ["key"]
+  },
+  {
+    "name": "ArrowBigRight",
+    "tags": ["key", "forward"]
+  },
+  {
+    "name": "ArrowBigUp",
+    "tags": ["key", "forward"]
+  },
+  {
+    "name": "ArrowDown",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowDownCircle",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowDownLeft",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowDownRight",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowLeft",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowLeftCircle",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowLeftRight",
+    "tags": ["bidirection", "direction", "swap", "switch", "transaction"]
+  },
+  {
+    "name": "ArrowRight",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowRightCircle",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowUp",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowUpCircle",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowUpLeft",
+    "tags": ["direction"]
+  },
+  {
+    "name": "ArrowUpRight",
+    "tags": ["direction"]
+  },
+  {
+    "name": "Asterisk",
+    "tags": ["reference"]
+  },
+  {
+    "name": "AtSign",
+    "tags": ["mention", "at", "email", "message"]
+  },
+  {
+    "name": "Award",
+    "tags": ["achievement", "badge"]
+  },
+  {
+    "name": "Axe",
+    "tags": ["hatchet"]
+  },
+  {
+    "name": "Banknote",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "BarChart",
+    "tags": ["statistics", "diagram", "graph"]
+  },
+  {
+    "name": "BarChart2",
+    "tags": ["statistics", "diagram", "graph"]
+  },
+  {
+    "name": "Battery",
+    "tags": ["power", "electricity"]
+  },
+  {
+    "name": "BatteryCharging",
+    "tags": ["power", "electricity"]
+  },
+  {
+    "name": "BatteryFull",
+    "tags": ["power", "electricity"]
+  },
+  {
+    "name": "BatteryLow",
+    "tags": ["power", "electricity"]
+  },
+  {
+    "name": "BatteryMedium",
+    "tags": ["power", "electricity"]
+  },
+  {
+    "name": "Beaker",
+    "tags": ["cup"]
+  },
+  {
+    "name": "Bell",
+    "tags": ["alarm", "notification", "sound", "reminder"]
+  },
+  {
+    "name": "BellMinus",
+    "tags": ["alarm", "notification", "silent", "reminder", "delete", "remove", "erase"]
+  },
+  {
+    "name": "BellOff",
+    "tags": ["alarm", "notification", "silent", "reminder"]
+  },
+  {
+    "name": "BellPlus",
+    "tags": ["notification", "silent", "reminder", "add", "create", "new"]
+  },
+  {
+    "name": "BellRing",
+    "tags": ["alarm", "notification", "sound", "reminder"]
+  },
+  {
+    "name": "Bike",
+    "tags": ["bicycle", "transport", "trip"]
+  },
+  {
+    "name": "Binary",
+    "tags": ["code", "digits", "computer", "zero", "one"]
+  },
+  {
+    "name": "Bitcoin",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "Bluetooth",
+    "tags": ["wireless"]
+  },
+  {
+    "name": "BluetoothConnected",
+    "tags": ["paired"]
+  },
+  {
+    "name": "BluetoothOff",
+    "tags": ["lost"]
+  },
+  {
+    "name": "BluetoothSearching",
+    "tags": ["pairing"]
+  },
+  {
+    "name": "Bold",
+    "tags": ["text", "strong"]
+  },
+  {
+    "name": "Book",
+    "tags": ["read", "dictionary", "booklet", "magazine", "library"]
+  },
+  {
+    "name": "BookOpen",
+    "tags": ["read", "library"]
+  },
+  {
+    "name": "Bookmark",
+    "tags": ["read", "clip", "marker", "tag"]
+  },
+  {
+    "name": "BookmarkMinus",
+    "tags": ["delete", "remove"]
+  },
+  {
+    "name": "BookmarkPlus",
+    "tags": ["add"]
+  },
+  {
+    "name": "Bot",
+    "tags": ["robot"]
+  },
+  {
+    "name": "Box",
+    "tags": ["cube", "package"]
+  },
+  {
+    "name": "BoxSelect",
+    "tags": ["selection", "square", "rectangular", "marquee", "tool"]
+  },
+  {
+    "name": "Briefcase",
+    "tags": ["work", "bag", "baggage", "folder"]
+  },
+  {
+    "name": "Brush",
+    "tags": ["draw", "paint", "color"]
+  },
+  {
+    "name": "Bug",
+    "tags": ["issue", "report", "insect"]
+  },
+  {
+    "name": "Building",
+    "tags": ["organisation", "organization"]
+  },
+  {
+    "name": "Bus",
+    "tags": ["bus", "vehicle", "transport", "trip"]
+  },
+  {
+    "name": "Calculator",
+    "tags": ["count", "calculating machine"]
+  },
+  {
+    "name": "Calendar",
+    "tags": ["date", "birthdate"]
+  },
+  {
+    "name": "Camera",
+    "tags": ["photo", "webcam", "video"]
+  },
+  {
+    "name": "CameraOff",
+    "tags": ["photo", "webcam", "video"]
+  },
+  {
+    "name": "Car",
+    "tags": ["vehicle", "transport", "trip"]
+  },
+  {
+    "name": "Carrot",
+    "tags": ["vegetable", "food", "eat"]
+  },
+  {
+    "name": "Cast",
+    "tags": ["chromecast", "airplay"]
+  },
+  {
+    "name": "Check",
+    "tags": ["done"]
+  },
+  {
+    "name": "CheckCircle",
+    "tags": ["done"]
+  },
+  {
+    "name": "CheckCircle2",
+    "tags": ["done"]
+  },
+  {
+    "name": "CheckSquare",
+    "tags": ["done"]
+  },
+  {
+    "name": "ChevronDown",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "ChevronFirst",
+    "tags": ["arrow", "previous", "music"]
+  },
+  {
+    "name": "ChevronLast",
+    "tags": ["arrow", "skip", "next", "music"]
+  },
+  {
+    "name": "ChevronLeft",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "ChevronRight",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "ChevronUp",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "ChevronsDown",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "ChevronsDownUp",
+    "tags": ["arrow", "fold"]
+  },
+  {
+    "name": "ChevronsLeft",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "ChevronsRight",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "ChevronsUp",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "ChevronsUpDown",
+    "tags": ["arrow", "unfold"]
+  },
+  {
+    "name": "Chrome",
+    "tags": ["browser"]
+  },
+  {
+    "name": "Circle",
+    "tags": ["off", "zero", "record"]
+  },
+  {
+    "name": "CircleSlashed",
+    "tags": ["diameter", "zero", "Ø", "null", "nothing"]
+  },
+  {
+    "name": "Clipboard",
+    "tags": ["copy", "paste"]
+  },
+  {
+    "name": "ClipboardCheck",
+    "tags": ["copied", "pasted"]
+  },
+  {
+    "name": "ClipboardCopy",
+    "tags": ["copy", "paste"]
+  },
+  {
+    "name": "ClipboardList",
+    "tags": ["copy", "paste", "tasks"]
+  },
+  {
+    "name": "ClipboardX",
+    "tags": ["copy", "paste", "discard", "remove"]
+  },
+  {
+    "name": "Clock",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock1",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock10",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock11",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock12",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock2",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock3",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock4",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock5",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock6",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock7",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock8",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Clock9",
+    "tags": ["time", "watch", "alarm"]
+  },
+  {
+    "name": "Cloud",
+    "tags": ["weather"]
+  },
+  {
+    "name": "CloudDrizzle",
+    "tags": ["weather", "shower"]
+  },
+  {
+    "name": "CloudFog",
+    "tags": ["weather", "mist"]
+  },
+  {
+    "name": "CloudHail",
+    "tags": ["weather", "rainfall"]
+  },
+  {
+    "name": "CloudLightning",
+    "tags": ["weather", "bolt"]
+  },
+  {
+    "name": "CloudMoon",
+    "tags": ["weather", "night"]
+  },
+  {
+    "name": "CloudOff",
+    "tags": ["disconnect"]
+  },
+  {
+    "name": "CloudRain",
+    "tags": ["weather", "rainfall"]
+  },
+  {
+    "name": "CloudRainWind",
+    "tags": ["weather", "rainfall"]
+  },
+  {
+    "name": "CloudSnow",
+    "tags": ["weather", "blizzard"]
+  },
+  {
+    "name": "CloudSun",
+    "tags": ["weather", "partly"]
+  },
+  {
+    "name": "Cloudy",
+    "tags": ["clouds"]
+  },
+  {
+    "name": "Clover",
+    "tags": ["leaf", "luck"]
+  },
+  {
+    "name": "Code",
+    "tags": ["source", "programming", "html", "xml"]
+  },
+  {
+    "name": "Code2",
+    "tags": ["source", "programming", "html", "xml"]
+  },
+  {
+    "name": "Codepen",
+    "tags": ["logo"]
+  },
+  {
+    "name": "Codesandbox",
+    "tags": ["logo"]
+  },
+  {
+    "name": "Coffee",
+    "tags": ["drink", "cup", "mug", "tea", "cafe", "hot", "beverage"]
+  },
+  {
+    "name": "Coins",
+    "tags": ["money", "cash", "finance", "gamble"]
+  },
+  {
+    "name": "Columns",
+    "tags": ["layout"]
+  },
+  {
+    "name": "Command",
+    "tags": ["keyboard", "cmd", "terminal", "prompt"]
+  },
+  {
+    "name": "Compass",
+    "tags": ["navigation", "safari", "travel", "direction"]
+  },
+  {
+    "name": "Contact",
+    "tags": ["person", "user"]
+  },
+  {
+    "name": "Contrast",
+    "tags": []
+  },
+  {
+    "name": "Copy",
+    "tags": ["clone", "duplicate"]
+  },
+  {
+    "name": "Copyleft",
+    "tags": ["licence"]
+  },
+  {
+    "name": "Copyright",
+    "tags": ["licence"]
+  },
+  {
+    "name": "CornerDownLeft",
+    "tags": ["arrow", "return"]
+  },
+  {
+    "name": "CornerDownRight",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "CornerLeftDown",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "CornerLeftUp",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "CornerRightDown",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "CornerRightUp",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "CornerUpLeft",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "CornerUpRight",
+    "tags": ["arrow"]
+  },
+  {
+    "name": "Cpu",
+    "tags": ["processor", "technology", "computer", "chip"]
+  },
+  {
+    "name": "CreditCard",
+    "tags": ["bank", "purchase", "payment", "cc"]
+  },
+  {
+    "name": "Crop",
+    "tags": ["photo", "image"]
+  },
+  {
+    "name": "Cross",
+    "tags": ["healthcare", "firstaid"]
+  },
+  {
+    "name": "Crosshair",
+    "tags": ["aim", "target"]
+  },
+  {
+    "name": "Crown",
+    "tags": ["king", "winner", "favourite"]
+  },
+  {
+    "name": "Currency",
+    "tags": ["finance", "money"]
+  },
+  {
+    "name": "Database",
+    "tags": ["storage", "memory"]
+  },
+  {
+    "name": "Delete",
+    "tags": ["remove"]
+  },
+  {
+    "name": "Disc",
+    "tags": ["album", "cd", "dvd", "music"]
+  },
+  {
+    "name": "Divide",
+    "tags": ["calculate"]
+  },
+  {
+    "name": "DivideCircle",
+    "tags": ["calculate"]
+  },
+  {
+    "name": "DivideSquare",
+    "tags": ["calculate"]
+  },
+  {
+    "name": "DollarSign",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "Download",
+    "tags": ["import", "export"]
+  },
+  {
+    "name": "DownloadCloud",
+    "tags": ["import"]
+  },
+  {
+    "name": "Dribbble",
+    "tags": []
+  },
+  {
+    "name": "Droplet",
+    "tags": ["water"]
+  },
+  {
+    "name": "Droplets",
+    "tags": ["water", "humidity"]
+  },
+  {
+    "name": "Drumstick",
+    "tags": ["food", "chicken", "meat"]
+  },
+  {
+    "name": "Edit",
+    "tags": ["pencil", "change"]
+  },
+  {
+    "name": "Edit2",
+    "tags": ["pencil", "change"]
+  },
+  {
+    "name": "Edit3",
+    "tags": ["pencil", "change"]
+  },
+  {
+    "name": "Egg",
+    "tags": ["food"]
+  },
+  {
+    "name": "Equal",
+    "tags": ["calculate"]
+  },
+  {
+    "name": "EqualNot",
+    "tags": ["calculate", "off"]
+  },
+  {
+    "name": "Euro",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "Expand",
+    "tags": ["scale", "fullscreen"]
+  },
+  {
+    "name": "ExternalLink",
+    "tags": ["outbound"]
+  },
+  {
+    "name": "Eye",
+    "tags": ["view", "watch"]
+  },
+  {
+    "name": "EyeOff",
+    "tags": ["view", "watch", "hide", "hidden"]
+  },
+  {
+    "name": "Facebook",
+    "tags": ["logo", "social"]
+  },
+  {
+    "name": "FastForward",
+    "tags": ["music"]
+  },
+  {
+    "name": "Feather",
+    "tags": []
+  },
+  {
+    "name": "Figma",
+    "tags": ["logo", "design", "tool"]
+  },
+  {
+    "name": "File",
+    "tags": ["document"]
+  },
+  {
+    "name": "FileCheck",
+    "tags": ["done", "document"]
+  },
+  {
+    "name": "FileCheck2",
+    "tags": ["done", "document"]
+  },
+  {
+    "name": "FileCode",
+    "tags": ["script", "document"]
+  },
+  {
+    "name": "FileDigit",
+    "tags": ["number", "document"]
+  },
+  {
+    "name": "FileInput",
+    "tags": ["document"]
+  },
+  {
+    "name": "FileMinus",
+    "tags": ["delete", "remove", "erase", "document"]
+  },
+  {
+    "name": "FileMinus2",
+    "tags": ["document"]
+  },
+  {
+    "name": "FileOutput",
+    "tags": ["document"]
+  },
+  {
+    "name": "FilePlus",
+    "tags": ["add", "create", "new", "document"]
+  },
+  {
+    "name": "FilePlus2",
+    "tags": ["add", "create", "new", "document"]
+  },
+  {
+    "name": "FileSearch",
+    "tags": ["lost", "document", "find"]
+  },
+  {
+    "name": "FileText",
+    "tags": ["data", "txt", "pdf", "document"]
+  },
+  {
+    "name": "FileX",
+    "tags": ["lost", "delete", "remove", "document"]
+  },
+  {
+    "name": "FileX2",
+    "tags": ["lost", "delete", "remove", "document"]
+  },
+  {
+    "name": "Files",
+    "tags": ["multiple", "copy", "documents"]
+  },
+  {
+    "name": "Film",
+    "tags": ["movie", "video"]
+  },
+  {
+    "name": "Filter",
+    "tags": ["funnel", "hopper"]
+  },
+  {
+    "name": "Flag",
+    "tags": ["report"]
+  },
+  {
+    "name": "FlagTriangleLeft",
+    "tags": ["report", "timeline"]
+  },
+  {
+    "name": "FlagTriangleRight",
+    "tags": ["report", "timeline"]
+  },
+  {
+    "name": "Flame",
+    "tags": ["fire", "lit"]
+  },
+  {
+    "name": "Flashlight",
+    "tags": ["torch"]
+  },
+  {
+    "name": "FlashlightOff",
+    "tags": ["torch"]
+  },
+  {
+    "name": "FlaskConical",
+    "tags": ["beaker", "erlenmeyer"]
+  },
+  {
+    "name": "FlaskRound",
+    "tags": ["beaker"]
+  },
+  {
+    "name": "Folder",
+    "tags": ["directory"]
+  },
+  {
+    "name": "FolderMinus",
+    "tags": ["directory"]
+  },
+  {
+    "name": "FolderOpen",
+    "tags": ["directory"]
+  },
+  {
+    "name": "FolderPlus",
+    "tags": ["directory"]
+  },
+  {
+    "name": "FormInput",
+    "tags": ["2fa", "authenticate", "login", "field", "text"]
+  },
+  {
+    "name": "Forward",
+    "tags": ["send", "share", "email"]
+  },
+  {
+    "name": "Framer",
+    "tags": ["logo", "design", "tool"]
+  },
+  {
+    "name": "Frown",
+    "tags": ["emoji", "face", "bad", "sad", "emotion"]
+  },
+  {
+    "name": "FunctionSquare",
+    "tags": ["programming", "code", "automation"]
+  },
+  {
+    "name": "Gamepad",
+    "tags": ["console"]
+  },
+  {
+    "name": "Gamepad2",
+    "tags": ["console"]
+  },
+  {
+    "name": "Gauge",
+    "tags": ["dashboard"]
+  },
+  {
+    "name": "Gavel",
+    "tags": ["hammer", "mallet"]
+  },
+  {
+    "name": "Gem",
+    "tags": ["diamond", "price", "special", "present"]
+  },
+  {
+    "name": "Ghost",
+    "tags": ["pacman", "spooky"]
+  },
+  {
+    "name": "Gift",
+    "tags": ["present", "box", "birthday", "party"]
+  },
+  {
+    "name": "GitBranch",
+    "tags": ["code", "version control"]
+  },
+  {
+    "name": "GitBranchPlus",
+    "tags": ["add", "create"]
+  },
+  {
+    "name": "GitCommit",
+    "tags": ["code", "version control"]
+  },
+  {
+    "name": "GitMerge",
+    "tags": ["code", "version control"]
+  },
+  {
+    "name": "GitPullRequest",
+    "tags": ["code", "version control"]
+  },
+  {
+    "name": "Github",
+    "tags": ["logo", "version control"]
+  },
+  {
+    "name": "Gitlab",
+    "tags": ["logo", "version control"]
+  },
+  {
+    "name": "Glasses",
+    "tags": ["glasses", "spectacles"]
+  },
+  {
+    "name": "Globe",
+    "tags": ["world", "browser", "language", "translate"]
+  },
+  {
+    "name": "Globe2",
+    "tags": ["world", "browser", "language", "translate"]
+  },
+  {
+    "name": "Grab",
+    "tags": ["hand"]
+  },
+  {
+    "name": "GraduationCap",
+    "tags": ["school", "university", "learn", "study"]
+  },
+  {
+    "name": "Grid",
+    "tags": ["table"]
+  },
+  {
+    "name": "GripHorizontal",
+    "tags": ["grab", "handle"]
+  },
+  {
+    "name": "GripVertical",
+    "tags": ["grab", "handle"]
+  },
+  {
+    "name": "Hammer",
+    "tags": ["mallet"]
+  },
+  {
+    "name": "Hand",
+    "tags": ["wave", "move", "mouse", "grab"]
+  },
+  {
+    "name": "HandMetal",
+    "tags": ["rock"]
+  },
+  {
+    "name": "HardDrive",
+    "tags": ["computer", "server", "memory", "data", "ssd", "disk", "harddisk"]
+  },
+  {
+    "name": "HardHat",
+    "tags": ["helmet", "construction", "savety"]
+  },
+  {
+    "name": "Hash",
+    "tags": ["hashtag", "number", "pound"]
+  },
+  {
+    "name": "Haze",
+    "tags": ["mist", "fog"]
+  },
+  {
+    "name": "Headphones",
+    "tags": ["music", "audio", "sound"]
+  },
+  {
+    "name": "Heart",
+    "tags": ["like", "love", "emotion"]
+  },
+  {
+    "name": "HelpCircle",
+    "tags": ["question mark"]
+  },
+  {
+    "name": "Hexagon",
+    "tags": ["shape", "node.js", "logo"]
+  },
+  {
+    "name": "Highlighter",
+    "tags": ["mark", "text"]
+  },
+  {
+    "name": "History",
+    "tags": ["time", "redo", "undo", "rewind", "timeline", "version"]
+  },
+  {
+    "name": "Home",
+    "tags": ["house", "living"]
+  },
+  {
+    "name": "Image",
+    "tags": ["picture", "photo"]
+  },
+  {
+    "name": "ImageMinus",
+    "tags": ["remove", "delete"]
+  },
+  {
+    "name": "ImageOff",
+    "tags": ["picture", "photo"]
+  },
+  {
+    "name": "ImagePlus",
+    "tags": ["add", "create"]
+  },
+  {
+    "name": "Import",
+    "tags": ["save"]
+  },
+  {
+    "name": "Inbox",
+    "tags": ["email"]
+  },
+  {
+    "name": "Indent",
+    "tags": ["text", "tab"]
+  },
+  {
+    "name": "IndianRupee",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "Infinity",
+    "tags": ["unlimited", "forever", "loop"]
+  },
+  {
+    "name": "Info",
+    "tags": ["help"]
+  },
+  {
+    "name": "Inspect",
+    "tags": ["element", "mouse", "click", "box"]
+  },
+  {
+    "name": "Instagram",
+    "tags": ["logo", "camera"]
+  },
+  {
+    "name": "Italic",
+    "tags": ["oblique", "text"]
+  },
+  {
+    "name": "JapaneseYen",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "Key",
+    "tags": ["password", "login", "authentication", "secure"]
+  },
+  {
+    "name": "Landmark",
+    "tags": ["bank", "building", "capitol", "finance", "money"]
+  },
+  {
+    "name": "Languages",
+    "tags": ["translate"]
+  },
+  {
+    "name": "Laptop",
+    "tags": ["computer"]
+  },
+  {
+    "name": "Laptop2",
+    "tags": ["computer"]
+  },
+  {
+    "name": "Lasso",
+    "tags": ["select"]
+  },
+  {
+    "name": "LassoSelect",
+    "tags": []
+  },
+  {
+    "name": "Layers",
+    "tags": ["stack", "pages"]
+  },
+  {
+    "name": "Layout",
+    "tags": ["window", "webpage"]
+  },
+  {
+    "name": "LayoutDashboard",
+    "tags": ["masonry", "brick"]
+  },
+  {
+    "name": "LayoutGrid",
+    "tags": ["app", "home", "start"]
+  },
+  {
+    "name": "LayoutList",
+    "tags": ["image", "photo", "item"]
+  },
+  {
+    "name": "LayoutTemplate",
+    "tags": ["window", "webpage", "block", "section"]
+  },
+  {
+    "name": "Library",
+    "tags": ["book", "music", "album"]
+  },
+  {
+    "name": "LifeBuoy",
+    "tags": ["help", "rescue", "ship"]
+  },
+  {
+    "name": "Lightbulb",
+    "tags": ["idea", "bright", "lights"]
+  },
+  {
+    "name": "LightbulbOff",
+    "tags": ["lights"]
+  },
+  {
+    "name": "Link",
+    "tags": ["chain", "url"]
+  },
+  {
+    "name": "Link2",
+    "tags": ["chain", "url"]
+  },
+  {
+    "name": "Link2Off",
+    "tags": ["unchain", "chain"]
+  },
+  {
+    "name": "Linkedin",
+    "tags": ["logo", "social media"]
+  },
+  {
+    "name": "List",
+    "tags": ["options"]
+  },
+  {
+    "name": "ListChecks",
+    "tags": ["todo", "done"]
+  },
+  {
+    "name": "ListMinus",
+    "tags": ["playlist", "remove", "song", "subtract", "remove", "delete"]
+  },
+  {
+    "name": "ListOrdered",
+    "tags": ["number", "order"]
+  },
+  {
+    "name": "ListPlus",
+    "tags": ["playlist", "add", "song", "track", "new"]
+  },
+  {
+    "name": "ListX",
+    "tags": ["playlist", "subtract", "remove", "delete"]
+  },
+  {
+    "name": "Loader",
+    "tags": ["load", "wait"]
+  },
+  {
+    "name": "Loader2",
+    "tags": ["load"]
+  },
+  {
+    "name": "Locate",
+    "tags": ["map", "gps", "location", "cross"]
+  },
+  {
+    "name": "LocateFixed",
+    "tags": ["map", "gps", "location", "cross"]
+  },
+  {
+    "name": "Lock",
+    "tags": ["security", "password", "secure", "admin"]
+  },
+  {
+    "name": "LogIn",
+    "tags": ["sign in", "arrow", "enter", "auth"]
+  },
+  {
+    "name": "LogOut",
+    "tags": ["sign out", "arrow", "exit", "auth"]
+  },
+  {
+    "name": "Mail",
+    "tags": ["email", "message", "letter"]
+  },
+  {
+    "name": "Map",
+    "tags": ["location", "navigation", "travel"]
+  },
+  {
+    "name": "MapPin",
+    "tags": ["location", "navigation", "travel", "marker"]
+  },
+  {
+    "name": "Maximize",
+    "tags": ["fullscreen", "expand"]
+  },
+  {
+    "name": "Maximize2",
+    "tags": ["fullscreen", "arrows", "expand"]
+  },
+  {
+    "name": "Megaphone",
+    "tags": ["advertisement", "attention", "alert", "notification"]
+  },
+  {
+    "name": "Meh",
+    "tags": ["emoji", "face", "neutral", "emotion"]
+  },
+  {
+    "name": "Menu",
+    "tags": ["bars", "navigation", "hamburger", "options"]
+  },
+  {
+    "name": "MessageCircle",
+    "tags": ["comment", "chat", "conversation"]
+  },
+  {
+    "name": "MessageSquare",
+    "tags": ["comment", "chat", "conversation"]
+  },
+  {
+    "name": "Mic",
+    "tags": ["record", "sound", "listen", "radio", "podcast"]
+  },
+  {
+    "name": "MicOff",
+    "tags": ["record", "sound", "mute"]
+  },
+  {
+    "name": "Minimize",
+    "tags": ["exit fullscreen", "close", "shrink"]
+  },
+  {
+    "name": "Minimize2",
+    "tags": ["exit fullscreen", "arrows", "close", "shrink"]
+  },
+  {
+    "name": "Minus",
+    "tags": ["subtract", "calculate"]
+  },
+  {
+    "name": "MinusCircle",
+    "tags": ["subtract", "calculate"]
+  },
+  {
+    "name": "MinusSquare",
+    "tags": ["subtract", "calculate"]
+  },
+  {
+    "name": "Monitor",
+    "tags": ["tv", "screen", "display"]
+  },
+  {
+    "name": "MonitorOff",
+    "tags": ["share"]
+  },
+  {
+    "name": "MonitorSpeaker",
+    "tags": ["devices", "connect", "cast"]
+  },
+  {
+    "name": "Moon",
+    "tags": ["dark", "night"]
+  },
+  {
+    "name": "MoreHorizontal",
+    "tags": ["ellipsis", "menu", "options"]
+  },
+  {
+    "name": "MoreVertical",
+    "tags": ["ellipsis", "menu", "options"]
+  },
+  {
+    "name": "Mountain",
+    "tags": ["climb", "hike", "rock"]
+  },
+  {
+    "name": "MountainSnow",
+    "tags": ["alpine", "climb", "snow"]
+  },
+  {
+    "name": "MousePointer",
+    "tags": ["arrow", "cursor", "click"]
+  },
+  {
+    "name": "MousePointer2",
+    "tags": ["arrow", "cursor", "click"]
+  },
+  {
+    "name": "MousePointerClick",
+    "tags": ["arrow", "cursor", "click"]
+  },
+  {
+    "name": "Move",
+    "tags": ["arrows"]
+  },
+  {
+    "name": "MoveDiagonal",
+    "tags": ["double", "arrow"]
+  },
+  {
+    "name": "MoveDiagonal2",
+    "tags": ["double", "arrow"]
+  },
+  {
+    "name": "MoveHorizontal",
+    "tags": ["double", "arrow"]
+  },
+  {
+    "name": "MoveVertical",
+    "tags": ["double", "arrow"]
+  },
+  {
+    "name": "Music",
+    "tags": ["note"]
+  },
+  {
+    "name": "Navigation",
+    "tags": ["location", "travel"]
+  },
+  {
+    "name": "Navigation2",
+    "tags": ["location", "travel"]
+  },
+  {
+    "name": "Network",
+    "tags": ["tree"]
+  },
+  {
+    "name": "Octagon",
+    "tags": ["stop"]
+  },
+  {
+    "name": "Option",
+    "tags": ["key", "mac", "button"]
+  },
+  {
+    "name": "Outdent",
+    "tags": ["text", "tab"]
+  },
+  {
+    "name": "Package",
+    "tags": ["box", "container"]
+  },
+  {
+    "name": "Palette",
+    "tags": ["color", "theme"]
+  },
+  {
+    "name": "Paperclip",
+    "tags": ["attachment", "file"]
+  },
+  {
+    "name": "Pause",
+    "tags": ["music", "stop"]
+  },
+  {
+    "name": "PauseCircle",
+    "tags": ["music", "audio", "stop"]
+  },
+  {
+    "name": "PauseOctagon",
+    "tags": ["music", "audio", "stop"]
+  },
+  {
+    "name": "PenTool",
+    "tags": ["vector", "drawing", "path"]
+  },
+  {
+    "name": "Pencil",
+    "tags": ["edit", "pen", "create"]
+  },
+  {
+    "name": "Percent",
+    "tags": ["discount"]
+  },
+  {
+    "name": "PersonStanding",
+    "tags": ["people", "human", "accessibility", "stick figure"]
+  },
+  {
+    "name": "Phone",
+    "tags": ["call"]
+  },
+  {
+    "name": "PhoneCall",
+    "tags": ["ring"]
+  },
+  {
+    "name": "PhoneForwarded",
+    "tags": ["call"]
+  },
+  {
+    "name": "PhoneIncoming",
+    "tags": ["call"]
+  },
+  {
+    "name": "PhoneMissed",
+    "tags": ["call"]
+  },
+  {
+    "name": "PhoneOff",
+    "tags": ["call", "mute"]
+  },
+  {
+    "name": "PhoneOutgoing",
+    "tags": ["call"]
+  },
+  {
+    "name": "PieChart",
+    "tags": ["statistics", "diagram"]
+  },
+  {
+    "name": "PiggyBank",
+    "tags": ["money", "savings"]
+  },
+  {
+    "name": "Pin",
+    "tags": ["save", "map", "lock", "fix"]
+  },
+  {
+    "name": "Pipette",
+    "tags": ["eye dropper", "color picker"]
+  },
+  {
+    "name": "Plane",
+    "tags": ["plane", "trip"]
+  },
+  {
+    "name": "Play",
+    "tags": ["music", "start"]
+  },
+  {
+    "name": "PlayCircle",
+    "tags": ["music", "start"]
+  },
+  {
+    "name": "PlugZap",
+    "tags": ["charge", "charging", "battery", "connect"]
+  },
+  {
+    "name": "Plus",
+    "tags": ["add", "new"]
+  },
+  {
+    "name": "PlusCircle",
+    "tags": ["add", "new"]
+  },
+  {
+    "name": "PlusSquare",
+    "tags": ["add", "new"]
+  },
+  {
+    "name": "Pocket",
+    "tags": ["logo", "save"]
+  },
+  {
+    "name": "Podcast",
+    "tags": ["mic", "music"]
+  },
+  {
+    "name": "Pointer",
+    "tags": ["mouse"]
+  },
+  {
+    "name": "PoundSterling",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "Power",
+    "tags": ["on", "off", "device"]
+  },
+  {
+    "name": "PowerOff",
+    "tags": ["device"]
+  },
+  {
+    "name": "Printer",
+    "tags": ["fax", "office", "device"]
+  },
+  {
+    "name": "QrCode",
+    "tags": ["barcode"]
+  },
+  {
+    "name": "Quote",
+    "tags": ["quotation"]
+  },
+  {
+    "name": "Radio",
+    "tags": ["signal"]
+  },
+  {
+    "name": "RadioReceiver",
+    "tags": ["device", "music", "connect"]
+  },
+  {
+    "name": "Redo",
+    "tags": ["undo", "history"]
+  },
+  {
+    "name": "RefreshCcw",
+    "tags": ["arrows", "reload"]
+  },
+  {
+    "name": "RefreshCw",
+    "tags": ["reload", "synchronise", "synchronize", "arrows"]
+  },
+  {
+    "name": "Regex",
+    "tags": ["search", "text"]
+  },
+  {
+    "name": "Repeat",
+    "tags": ["loop", "arrows"]
+  },
+  {
+    "name": "Repeat1",
+    "tags": ["replay"]
+  },
+  {
+    "name": "Reply",
+    "tags": ["email"]
+  },
+  {
+    "name": "ReplyAll",
+    "tags": ["email"]
+  },
+  {
+    "name": "Rewind",
+    "tags": ["music"]
+  },
+  {
+    "name": "RockingChair",
+    "tags": ["chair", "furniture", "seat"]
+  },
+  {
+    "name": "RotateCcw",
+    "tags": ["arrow", "left"]
+  },
+  {
+    "name": "RotateCw",
+    "tags": ["arrow", "right"]
+  },
+  {
+    "name": "Rss",
+    "tags": ["feed", "subscribe"]
+  },
+  {
+    "name": "Ruler",
+    "tags": ["measure", "meter", "foot", "inch"]
+  },
+  {
+    "name": "RussianRuble",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "Save",
+    "tags": ["floppy disk"]
+  },
+  {
+    "name": "Scale",
+    "tags": ["balance", "legal", "license", "right", "rule", "law"]
+  },
+  {
+    "name": "Scan",
+    "tags": ["qr-code"]
+  },
+  {
+    "name": "ScanLine",
+    "tags": ["qr-code"]
+  },
+  {
+    "name": "Scissors",
+    "tags": ["cut"]
+  },
+  {
+    "name": "ScreenShare",
+    "tags": ["host", "desktop"]
+  },
+  {
+    "name": "ScreenShareOff",
+    "tags": ["desktop", "disconnect"]
+  },
+  {
+    "name": "Search",
+    "tags": ["find", "magnifier", "magnifying glass"]
+  },
+  {
+    "name": "Send",
+    "tags": ["email", "message", "mail", "paper airplane", "paper aeroplane", "submit"]
+  },
+  {
+    "name": "SeparatorHorizontal",
+    "tags": ["move", "split"]
+  },
+  {
+    "name": "SeparatorVertical",
+    "tags": ["move", "split"]
+  },
+  {
+    "name": "Server",
+    "tags": ["cloud", "storage"]
+  },
+  {
+    "name": "ServerCrash",
+    "tags": ["cloud", "storage", "problem", "error"]
+  },
+  {
+    "name": "ServerOff",
+    "tags": ["cloud", "storage"]
+  },
+  {
+    "name": "Settings",
+    "tags": ["cog", "edit", "gear", "preferences"]
+  },
+  {
+    "name": "Settings2",
+    "tags": ["cog", "edit", "gear", "preferences"]
+  },
+  {
+    "name": "Share",
+    "tags": ["network", "connections"]
+  },
+  {
+    "name": "Share2",
+    "tags": ["network", "connections"]
+  },
+  {
+    "name": "Sheet",
+    "tags": ["spreadsheets", "table", "excel"]
+  },
+  {
+    "name": "Shield",
+    "tags": ["security", "secure"]
+  },
+  {
+    "name": "ShieldAlert",
+    "tags": ["security", "secure", "virus", "admin", "savety"]
+  },
+  {
+    "name": "ShieldCheck",
+    "tags": ["security", "secure", "done", "save"]
+  },
+  {
+    "name": "ShieldClose",
+    "tags": ["security", "secure", "wrong", "unsave", "virus"]
+  },
+  {
+    "name": "ShieldOff",
+    "tags": ["security", "secure", "security", "insecure"]
+  },
+  {
+    "name": "Shirt",
+    "tags": ["t-shirt", "shopping", "store", "clothing", "clothes"]
+  },
+  {
+    "name": "ShoppingBag",
+    "tags": ["ecommerce", "cart", "purchase", "store"]
+  },
+  {
+    "name": "ShoppingCart",
+    "tags": ["ecommerce", "cart", "purchase", "store"]
+  },
+  {
+    "name": "Shovel",
+    "tags": ["dig", "spade"]
+  },
+  {
+    "name": "Shrink",
+    "tags": ["scale", "fullscreen"]
+  },
+  {
+    "name": "Shuffle",
+    "tags": ["music"]
+  },
+  {
+    "name": "Sidebar",
+    "tags": ["menu"]
+  },
+  {
+    "name": "SidebarClose",
+    "tags": ["menu"]
+  },
+  {
+    "name": "SidebarOpen",
+    "tags": ["menu"]
+  },
+  {
+    "name": "Sigma",
+    "tags": ["sum", "calculate"]
+  },
+  {
+    "name": "Signal",
+    "tags": ["connection", "wireless", "gsm", "phone", "2g", "3g", "4g", "5g"]
+  },
+  {
+    "name": "SignalHigh",
+    "tags": ["connection", "wireless", "gsm", "phone", "2g", "3g", "4g", "5g"]
+  },
+  {
+    "name": "SignalLow",
+    "tags": ["connection", "wireless", "gsm", "phone", "2g", "3g", "4g", "5g"]
+  },
+  {
+    "name": "SignalMedium",
+    "tags": ["connection", "wireless", "gsm", "phone", "2g", "3g", "4g", "5g"]
+  },
+  {
+    "name": "SignalZero",
+    "tags": ["connection", "wireless", "gsm", "phone", "2g", "3g", "4g", "5g", "lost"]
+  },
+  {
+    "name": "SkipBack",
+    "tags": ["arrow", "previous", "music"]
+  },
+  {
+    "name": "SkipForward",
+    "tags": ["arrow", "skip", "next", "music"]
+  },
+  {
+    "name": "Skull",
+    "tags": ["death", "danger", "bone"]
+  },
+  {
+    "name": "Slack",
+    "tags": ["logo"]
+  },
+  {
+    "name": "Slash",
+    "tags": ["cancel", "ban", "no", "stop", "forbidden", "prohibited", "error"]
+  },
+  {
+    "name": "Sliders",
+    "tags": ["settings", "controls"]
+  },
+  {
+    "name": "Smartphone",
+    "tags": ["phone", "cellphone", "device"]
+  },
+  {
+    "name": "SmartphoneCharging",
+    "tags": ["phone", "cellphone", "device", "power"]
+  },
+  {
+    "name": "Smile",
+    "tags": ["emoji", "face", "happy", "good", "emotion"]
+  },
+  {
+    "name": "Snowflake",
+    "tags": ["cold", "weather", "freeze", "snow"]
+  },
+  {
+    "name": "SortAsc",
+    "tags": ["filter"]
+  },
+  {
+    "name": "SortDesc",
+    "tags": ["filter"]
+  },
+  {
+    "name": "Speaker",
+    "tags": ["audio", "music"]
+  },
+  {
+    "name": "Sprout",
+    "tags": ["leaf", "nature"]
+  },
+  {
+    "name": "Square",
+    "tags": ["rectangle"]
+  },
+  {
+    "name": "Star",
+    "tags": ["bookmark", "favorite", "like", "review", "rating"]
+  },
+  {
+    "name": "StarHalf",
+    "tags": ["bookmark", "favorite", "like", "review", "rating"]
+  },
+  {
+    "name": "StopCircle",
+    "tags": ["media", "music"]
+  },
+  {
+    "name": "Strikethrough",
+    "tags": ["cross out", "delete", "remove"]
+  },
+  {
+    "name": "Subscript",
+    "tags": ["text"]
+  },
+  {
+    "name": "Sun",
+    "tags": ["brightness", "weather", "light"]
+  },
+  {
+    "name": "Sunrise",
+    "tags": ["weather", "time", "morning", "day"]
+  },
+  {
+    "name": "Sunset",
+    "tags": ["weather", "time", "evening", "night"]
+  },
+  {
+    "name": "Superscript",
+    "tags": ["text", "exponent"]
+  },
+  {
+    "name": "SwissFranc",
+    "tags": ["currency", "money", "payment"]
+  },
+  {
+    "name": "SwitchCamera",
+    "tags": ["photo", "selfy", "front", "back"]
+  },
+  {
+    "name": "Table",
+    "tags": ["sheet", "grid"]
+  },
+  {
+    "name": "Tablet",
+    "tags": ["device"]
+  },
+  {
+    "name": "Tag",
+    "tags": ["label"]
+  },
+  {
+    "name": "Target",
+    "tags": ["logo", "bullseye"]
+  },
+  {
+    "name": "Tent",
+    "tags": ["campsite", "wigwam"]
+  },
+  {
+    "name": "Terminal",
+    "tags": ["code", "command line", "prompt", "shell"]
+  },
+  {
+    "name": "TerminalSquare",
+    "tags": ["code", "command line", "prompt", "shell"]
+  },
+  {
+    "name": "TextCursor",
+    "tags": ["select"]
+  },
+  {
+    "name": "TextCursorInput",
+    "tags": ["select"]
+  },
+  {
+    "name": "Thermometer",
+    "tags": ["temperature", "celsius", "fahrenheit", "weather"]
+  },
+  {
+    "name": "ThermometerSnowflake",
+    "tags": [
+      "temperature",
+      "celsius",
+      "fahrenheit",
+      "weather",
+      "cold",
+      "freeze",
+      "freezing"
+    ]
+  },
+  {
+    "name": "ThermometerSun",
+    "tags": ["temperature", "celsius", "fahrenheit", "weather", "warm", "hot"]
+  },
+  {
+    "name": "ThumbsDown",
+    "tags": ["dislike", "bad", "emotion"]
+  },
+  {
+    "name": "ThumbsUp",
+    "tags": ["like", "good", "emotion"]
+  },
+  {
+    "name": "Ticket",
+    "tags": ["entry", "pass", "voucher"]
+  },
+  {
+    "name": "Timer",
+    "tags": ["time", "timer", "stopwatch"]
+  },
+  {
+    "name": "TimerOff",
+    "tags": ["time", "timer", "stopwatch"]
+  },
+  {
+    "name": "TimerReset",
+    "tags": ["time", "timer", "stopwatch"]
+  },
+  {
+    "name": "ToggleLeft",
+    "tags": ["on", "off", "switch"]
+  },
+  {
+    "name": "ToggleRight",
+    "tags": ["on", "off", "switch"]
+  },
+  {
+    "name": "Tornado",
+    "tags": ["weather", "wind", "storm", "hurricane"]
+  },
+  {
+    "name": "Trash",
+    "tags": ["garbage", "delete", "remove", "bin"]
+  },
+  {
+    "name": "Trash2",
+    "tags": ["garbage", "delete", "remove", "bin"]
+  },
+  {
+    "name": "Trello",
+    "tags": []
+  },
+  {
+    "name": "TrendingDown",
+    "tags": ["statistics"]
+  },
+  {
+    "name": "TrendingUp",
+    "tags": ["statistics"]
+  },
+  {
+    "name": "Triangle",
+    "tags": ["delta"]
+  },
+  {
+    "name": "Truck",
+    "tags": ["delivery", "van", "shipping", "transport", "lorry"]
+  },
+  {
+    "name": "Tv",
+    "tags": ["television", "stream"]
+  },
+  {
+    "name": "Tv2",
+    "tags": ["flatscreen", "television", "stream", "display"]
+  },
+  {
+    "name": "Twitch",
+    "tags": ["logo"]
+  },
+  {
+    "name": "Twitter",
+    "tags": ["logo", "social"]
+  },
+  {
+    "name": "Type",
+    "tags": ["text", "font", "typography"]
+  },
+  {
+    "name": "Umbrella",
+    "tags": ["rain", "weather"]
+  },
+  {
+    "name": "Underline",
+    "tags": ["text"]
+  },
+  {
+    "name": "Undo",
+    "tags": ["redo", "history"]
+  },
+  {
+    "name": "Unlink",
+    "tags": ["url", "unchain", "unchain"]
+  },
+  {
+    "name": "Unlink2",
+    "tags": ["url", "unchain", "unchain"]
+  },
+  {
+    "name": "Unlock",
+    "tags": ["security"]
+  },
+  {
+    "name": "Upload",
+    "tags": ["file"]
+  },
+  {
+    "name": "UploadCloud",
+    "tags": ["file"]
+  },
+  {
+    "name": "User",
+    "tags": ["person", "account", "contact"]
+  },
+  {
+    "name": "UserCheck",
+    "tags": ["followed", "subscribed", "done"]
+  },
+  {
+    "name": "UserMinus",
+    "tags": ["delete", "remove", "unfollow", "unsubscribe"]
+  },
+  {
+    "name": "UserPlus",
+    "tags": ["new", "add", "create", "follow", "subscribe"]
+  },
+  {
+    "name": "UserX",
+    "tags": ["delete", "remove", "unfollow", "unsubscribe", "unavailable"]
+  },
+  {
+    "name": "Users",
+    "tags": ["group", "people"]
+  },
+  {
+    "name": "Verified",
+    "tags": ["check"]
+  },
+  {
+    "name": "Vibrate",
+    "tags": ["smartphone", "notification"]
+  },
+  {
+    "name": "Video",
+    "tags": ["camera", "movie", "film"]
+  },
+  {
+    "name": "VideoOff",
+    "tags": ["camera", "movie", "film"]
+  },
+  {
+    "name": "View",
+    "tags": ["eye", "look"]
+  },
+  {
+    "name": "Voicemail",
+    "tags": ["phone", "cassette"]
+  },
+  {
+    "name": "Volume",
+    "tags": ["music", "sound", "mute"]
+  },
+  {
+    "name": "Volume1",
+    "tags": ["music", "sound"]
+  },
+  {
+    "name": "Volume2",
+    "tags": ["music", "sound"]
+  },
+  {
+    "name": "VolumeX",
+    "tags": ["music", "sound", "mute"]
+  },
+  {
+    "name": "Wallet",
+    "tags": ["money", "finance", "pocket"]
+  },
+  {
+    "name": "Wand",
+    "tags": ["magic", "selection"]
+  },
+  {
+    "name": "Watch",
+    "tags": ["clock", "time"]
+  },
+  {
+    "name": "Webcam",
+    "tags": ["camera", "security"]
+  },
+  {
+    "name": "Wifi",
+    "tags": ["connection", "signal", "wireless"]
+  },
+  {
+    "name": "WifiOff",
+    "tags": ["disabled"]
+  },
+  {
+    "name": "Wind",
+    "tags": ["weather", "air", "blow"]
+  },
+  {
+    "name": "WrapText",
+    "tags": ["words", "lines", "break", "paragraph"]
+  },
+  {
+    "name": "Wrench",
+    "tags": ["tool", "settings", "spanner"]
+  },
+  {
+    "name": "X",
+    "tags": ["cancel", "close", "delete", "remove", "times", "clear"]
+  },
+  {
+    "name": "XCircle",
+    "tags": ["cancel", "close", "delete", "remove", "times", "clear"]
+  },
+  {
+    "name": "XOctagon",
+    "tags": ["delete", "stop", "alert", "warning", "times", "clear"]
+  },
+  {
+    "name": "XSquare",
+    "tags": ["cancel", "close", "delete", "remove", "times", "clear"]
+  },
+  {
+    "name": "Youtube",
+    "tags": ["logo", "video", "play"]
+  },
+  {
+    "name": "Zap",
+    "tags": ["flash", "camera", "lightning"]
+  },
+  {
+    "name": "ZapOff",
+    "tags": ["flash", "camera", "lightning"]
+  },
+  {
+    "name": "ZoomIn",
+    "tags": ["magnifying glass", "plus"]
+  },
+  {
+    "name": "ZoomOut",
+    "tags": ["magnifying glass", "plus"]
+  }
+]
