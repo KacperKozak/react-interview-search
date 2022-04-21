@@ -1,10 +1,17 @@
+import { useSearch } from '../../hooks/useSearch'
 import { Icon } from './Icon'
 import icons from './icons.json'
 
-export const IconList = () => {
+interface IconListProps {
+    query: string
+}
+
+export const IconList = ({ query }: IconListProps) => {
+    const results = useSearch(icons, ['name', 'tags'], query)
+
     return (
         <>
-            {icons.map((icon) => (
+            {results.map((icon) => (
                 <Icon key={icon.name} name={icon.name} />
             ))}
         </>

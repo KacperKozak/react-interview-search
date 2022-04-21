@@ -1,7 +1,11 @@
+import { useState } from 'react'
+import { SearchInput } from './components/form/SearchInput'
 import { Icon } from './components/icon/Icon'
 import { IconList } from './components/icon/IconList'
 
 export const App = () => {
+    const [query, setQuery] = useState('')
+
     return (
         <main>
             <h1>
@@ -9,13 +13,11 @@ export const App = () => {
             </h1>
 
             <form>
-                <code>// TODO search form</code>
-                <br />
-                <br />
+                <SearchInput value={query} onChange={setQuery} />
             </form>
 
             <div>
-                <IconList />
+                <IconList query={query} />
             </div>
         </main>
     )
