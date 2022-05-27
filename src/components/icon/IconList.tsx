@@ -5,7 +5,7 @@ import icons from './icons.json'
 interface IconListProps {
     query: string
 }
-
+;[]
 export const IconList = ({ query }: IconListProps) => {
     const results = useSearch(icons, ['name', 'tags'], query)
 
