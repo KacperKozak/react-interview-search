@@ -1,10 +1,14 @@
+import { IconItem } from '../../types'
 import { Icon } from './Icon'
-import icons from './icons.json'
 
-export const IconList = () => {
+interface IconListProps {
+    list: IconItem[]
+}
+
+export const IconList = ({ list }: IconListProps) => {
     return (
         <>
-            {icons.map((icon) => (
+            {list.map((icon) => (
                 <Icon key={icon.name} name={icon.name} />
             ))}
         </>

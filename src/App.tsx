@@ -1,5 +1,6 @@
 import { Icon } from './components/icon/Icon'
 import { IconList } from './components/icon/IconList'
+import icons from './data/icons.json'
 
 export const App = () => {
     return (
@@ -7,15 +8,8 @@ export const App = () => {
             <h1>
                 <Icon name="Search" /> Icon search
             </h1>
-
-            <form>
-                <code>// TODO search form</code>
-                <br />
-                <br />
-            </form>
-
             <div>
-                <IconList />
+                <IconList list={icons} />
             </div>
         </main>
     )
